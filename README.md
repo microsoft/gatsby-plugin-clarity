@@ -26,7 +26,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## Usage
 
-- Navigate to the root of you gatsby project and run  
+- Navigate to the root of your gatsby project and run  
   `install gatsby-plugin-clarity`
 
 - Navigate to gatsby-config.js and add the following to your plugins array
