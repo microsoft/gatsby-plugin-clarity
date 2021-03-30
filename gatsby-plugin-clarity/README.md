@@ -1,6 +1,6 @@
 # gatsby-plugin-clarity
 
-Microsoft Clarity is a free user behavior analytics tool developed by Microsoft that helps you understand how users are interacting with your website through session replays and heatmaps.
+<a href="https://clarity.microsoft.com">Microsoft Clarity</a> is a free user behavior analytics tool developed by Microsoft that helps you understand how users are interacting with your website through session replays and heatmaps.
 
 ## Install
 
