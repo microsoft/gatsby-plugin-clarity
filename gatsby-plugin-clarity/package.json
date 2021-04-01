@@ -12,7 +12,9 @@
     "gatsby",
     "gatsby-plugin",
     "analytics",
-    "microsoft-clarity"
+    "microsoft-clarity",
+    "heatmap",
+    "session recording"
   ],
   "author": "Microsoft",
   "bugs": {
