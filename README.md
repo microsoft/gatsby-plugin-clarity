@@ -42,7 +42,6 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
         // Boolean value for enabling clarity while developing
         // true will enable clarity tracking code on both development and production environments
         // false will enable clarity tracking code on production environment only
-        //
         enable_on_dev_env: true
       },
     }
